@@ -1,0 +1,1 @@
+<h2><?php echo $user["nama"]; ?></h2>
